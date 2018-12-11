@@ -16,4 +16,4 @@ DOI: http://dx.doi.org/10.1016/j.chemolab.2014.08.005
 IPW: M. Forina, C. Casolino, C. Pizarro Millan, Iterative predictor weighting
     (IPW) PLS: a technique for the elimination of useless predictors in regression problems,
     Journal of Chemometrics 13 (1999) 165-184.
-    DOI: DOI: 10.1002/(SICI)1099-128X(199903/04)13:23.3.CO;2-P
+    DOI: 10.1002/(SICI)1099-128X(199903/04)13:23.3.CO;2-P 
