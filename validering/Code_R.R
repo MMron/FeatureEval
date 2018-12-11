@@ -1,3 +1,4 @@
+# Functions are extraced from https://github.com/khliland/plsVarSel/blob/master/R/filters.R 
 function (pls.object, opt.comp, p = dim(pls.object$coef)[1]) {
   # Variable importance in prediction
   W <- pls.object$loading.weights
